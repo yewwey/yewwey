@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+🖥Tech stack  
+  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
 <!---
 yewwey/yewwey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
